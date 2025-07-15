@@ -35,12 +35,6 @@
 - 🧠 [Introvert vs Extrovert Classifier](https://github.com/kyeah55/introvert-extrovert-classifier)  
   `Logistic Regression`, `EDA`, `Cross-validation`, `Mutual Information`
 
----
-
-## 📈 GitHub Stats
-
-![kyeah55's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeah55&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeah55&layout=compact)
 
 ---
 
