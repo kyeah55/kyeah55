@@ -9,7 +9,7 @@ Actively learning and building in the field of Applied Data Science
 ## About Me
 
 - Passionate about Data Science, Machine Learning, and solving real-world problems using data  
-- Currently working on improving my skills in classification, regression, and feature engineering  
+- Currently working on improving my skills in probability, statistics, classification, regression, and feature engineering  
 - Eager to join collaborative projects, internships or research in AI / ML / DS  
 - Enjoy building ML pipelines and deploying predictive models
 
@@ -48,14 +48,7 @@ Actively learning and building in the field of Applied Data Science
 
 ## Basic Projects For Learning Purposes
 
-- [House Price Prediction](https://github.com/kyeah55/house-price-prediction)  
-  `Regression`, `EDA`, `Model Selection`, `Linear Regression`, `Random Forest`
-
-- [Titanic Survival Classifier](https://github.com/kyeah55/titanic-project)  
-  `Classification`, `Feature Engineering`, `Missing Values`, `Kaggle Score: 0.76555`
-
-- [Introvert vs Extrovert Classifier](https://github.com/kyeah55/introvert-extrovert-classifier)  
-  `Logistic Regression`, `EDA`, `Cross-validation`, `Mutual Information`
+They are private buddy
 
 ---
 
