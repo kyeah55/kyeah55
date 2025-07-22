@@ -46,7 +46,7 @@ Actively learning and building in the field of Applied Data Science
 
 ---
 
-## Basic Projects For Learning
+## Basic Projects For Learning Purposes
 
 - [House Price Prediction](https://github.com/kyeah55/house-price-prediction)  
   `Regression`, `EDA`, `Model Selection`, `Linear Regression`, `Random Forest`
